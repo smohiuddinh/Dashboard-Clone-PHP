@@ -1,0 +1,40 @@
+:root{
+    --bg--dark-color: black;
+    --bg--dark--primary: #1c1c1c;
+    --bs-primary--color: #c6c6c6;
+    --bg--light--color: #EDF3FF;
+
+
+}
+
+
+.navbar-brand{
+    color:blue;
+}
+
+
+.bg-color{
+    background-color: #EDF3FF;
+}
+
+
+.custom-shape-divider-bottom-1704534162 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1704534162 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 477px;
+}
+
+.custom-shape-divider-bottom-1704534162 .shape-fill {
+    fill: #FFF3F3;
+}
